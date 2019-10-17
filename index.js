@@ -39,7 +39,7 @@ function makeSound(key) {
       break;
 
       case "s":
-      var tom3 = new Audio("sounds/tom-3.mp3");
+      var tom3 = new Audio("https://raw.githubusercontent.com/mattk24/Drum-kit/master/tom-3.mp3");
       tom3.play();
     break;
 
