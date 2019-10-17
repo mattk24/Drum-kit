@@ -29,7 +29,7 @@ function makeSound(key) {
 
     switch (key) {
       case "w":
-          var tom1 = new Audio("sounds/tom-1.mp3");
+          var tom1 = new Audio("https://raw.githubusercontent.com/mattk24/Drum-kit/master/tom-1.mp3");
           tom1.play();
         break;
 
