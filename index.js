@@ -49,7 +49,7 @@ function makeSound(key) {
     break;
 
       case "j":
-      var crash = new Audio("sounds/crash.mp3");
+      var crash = new Audio("https://raw.githubusercontent.com/mattk24/Drum-kit/master/crash.mp3");
       crash.play();
     break;
 
