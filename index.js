@@ -59,7 +59,7 @@ function makeSound(key) {
     break;
 
       case "l":
-      var kickBass = new Audio("sounds/kick-bass.mp3");
+      var kickBass = new Audio("https://raw.githubusercontent.com/mattk24/Drum-kit/master/kick-bass.mp3");
       kickBass.play();
     break;
 
