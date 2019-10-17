@@ -54,7 +54,7 @@ function makeSound(key) {
     break;
 
       case "k":
-      var snare = new Audio("sounds/snare.mp3");
+      var snare = new Audio("https://raw.githubusercontent.com/mattk24/Drum-kit/master/snare.mp3");
       snare.play();
     break;
 
